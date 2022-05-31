@@ -1,1 +1,1 @@
-# PopulationBottleneck_TengWang
+This is the repository for the matlab codes generating the results in the manuscript 'Population bottlenecks promote the maintenance of plasmids with low persistence potential' by Andrea Weiss, Teng Wang and Lingchong You.
