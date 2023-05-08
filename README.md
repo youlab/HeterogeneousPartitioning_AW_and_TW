@@ -1,1 +1,1 @@
-This is the repository for the matlab codes generating the results in the manuscript 'Promotion of plasmid maintenance in microbial communities experiencing bottlenecks' by Andrea Weiss, Teng Wang and Lingchong You.
+This is the repository for the matlab codes generating the results in the manuscript 'Promotion of plasmid maintenance by heterogeneous partitioning of microbial communities experiencing bottlenecks' by Andrea Weiss, Teng Wang and Lingchong You.
